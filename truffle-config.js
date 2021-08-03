@@ -7,7 +7,7 @@ module.exports = {
   networks: {
     // rinkeby : {
     //   provider : function(){
-    //     return new HDWalletProvider("")
+    //     return new HDWalletProvider()
     //   },
     //   network_id :4,
     //   gas : 4500000
